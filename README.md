@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Vishnukanth 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukanthg&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukanthg" /> </p>
-<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcwKcqcKy6WX2XVMBiy0yoeaPvN9-fnPzDp3_FX1hnXHi11fLEtrYHLNGG40bjvM5cDZOPI2NQT3dx5vS68ctkg9dPf61s3MpRbUcFrD7CAj9jSxkMiPbLMwvP6gClRvnJdFPSnXgfRprEw-Z-07yzFicBM9m3Y-sVrWnZWPhbkGbZ0cy3HrWFyBPWoA/s1600/image_processing20210909-29286-dr58yz.gif">
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcwKcqcKy6WX2XVMBiy0yoeaPvN9-fnPzDp3_FX1hnXHi11fLEtrYHLNGG40bjvM5cDZOPI2NQT3dx5vS68ctkg9dPf61s3MpRbUcFrD7CAj9jSxkMiPbLMwvP6gClRvnJdFPSnXgfRprEw-Z-07yzFicBM9m3Y-sVrWnZWPhbkGbZ0cy3HrWFyBPWoA/s1600/image_processing20210909-29286-dr58yz.gif">&nbsp
 
-<br>
 <h3 align="left">About Me</h3>
 <p align="left">Currently Pursuing B.E In Computer Science</p>
 <p align="left">Currently Working In Flask Framework</p>
