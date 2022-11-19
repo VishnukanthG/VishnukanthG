@@ -7,6 +7,7 @@
 <p align="left">Currently Working In Flask Framework</p>
 <p align="left">Currently Into Building Web Frontend</p> 
 <p align="left">Currently Learning Django And MongoDB</p>
+<p align="left">Get to know more about me : <a href="https://drive.google.com/file/d/1lpmRJQ8Wy8PD8pi3Z7wM0df3-ZyHwyiA/view">My Resume</a></p>
 
 
 
