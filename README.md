@@ -31,7 +31,7 @@
 
 <h3 align="left">Let's Connect</h3>
 <a href="https://linkedin.com/in/vishnukanth gumme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnukanth gumme" height="30" width="40" /></a>
-<a href="https://instagram.com/_vishnu_05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vishnu_05_00" height="30" width="40" /></a>
+<a href="https://instagram.com/_vishnu_05_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vishnu_05_00" height="30" width="40" /></a>
 </p><br>
 <p align= "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnukanthg&show_icons=true&locale=en&layout=compact" alt="vishnukanthg" /></p>&nbsp
 <p><img width = "450px" align="left" src="https://github-readme-stats.vercel.app/api?username=vishnukanthg&show_icons=true&locale=en" alt="vishnukanthg"/>&nbsp<img width = "450px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukanthg&" alt="vishnukanthg" /></p>
