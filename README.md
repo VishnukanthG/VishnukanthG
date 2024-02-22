@@ -4,8 +4,8 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">Currently Pursuing B.E In Computer Science</p>
-<p align="left">Currently Working On Flutter</p>
-<p align="left">Currently Into Android Development</p> 
+<p align="left">Currently Working On Conda Environment</p>
+<p align="left">Currently Working As Data Analyst</p> 
 <p align="left">Get to know more about me : <a href="https://drive.google.com/file/d/10c9nECL0ROTPSAelyGSLPavHFNoYEwyN/view?usp=sharing">My Resume</a></p>
 
 
