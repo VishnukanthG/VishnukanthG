@@ -6,7 +6,7 @@
 <p align="left">Currently Pursuing B.E In Computer Science</p>
 <p align="left">Currently Working On Flutter</p>
 <p align="left">Currently Into Android Development</p> 
-<p align="left">Get to know more about me : <a href="https://drive.google.com/file/d/1lpmRJQ8Wy8PD8pi3Z7wM0df3-ZyHwyiA/view">My Resume</a></p>
+<p align="left">Get to know more about me : <a href="https://drive.google.com/file/d/10c9nECL0ROTPSAelyGSLPavHFNoYEwyN/view?usp=sharing">My Resume</a></p>
 
 
 <h3 align="left">Languages</h3>
